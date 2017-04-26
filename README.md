@@ -1,4 +1,7 @@
-# api documentation for  [oauth2orize (v1.8.0)](https://github.com/jaredhanson/oauth2orize#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-oauth2orize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oauth2orize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oauth2orize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oauth2orize)
+# npmdoc-oauth2orize
+
+#### basic api documentation for  [oauth2orize (v1.8.0)](https://github.com/jaredhanson/oauth2orize#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-oauth2orize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oauth2orize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oauth2orize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oauth2orize)
+
 #### OAuth 2.0 authorization server toolkit for Node.js.
 
 [![NPM](https://nodei.co/npm/oauth2orize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/oauth2orize)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js test/**/*.test.js"
     },
-    "version": "1.8.0"
+    "version": "1.8.0",
+    "bin": {}
 }
 ```
 
